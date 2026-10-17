@@ -1,0 +1,137 @@
+*{
+    box-sizing: border-box;
+}
+.clear-fix{
+    clear: both;
+}
+body{
+    background-color: #f2f5f9;
+}
+.container{
+    margin: 25px auto;
+    width: 80%;
+}
+.text-center{
+    text-align: center;
+}
+.card-color-redius{
+    background-color: #FFF;
+    border-radius: 20px ;
+
+}
+.text-card , .contact-card{
+    background-color: #1B4A7B;
+    border-radius: 20px;
+}
+.text-card h1{
+    margin: 0;
+    color: #FFF;
+    font-size: 45px;
+}
+.text-card h3{
+    color: #7DA7D8;
+}
+.text-card .button-cards  button{
+    background-color: rgb(38, 83, 131, 0.8);
+    color: #FFF;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 10px 15px;        
+    border-radius: 50px;
+    margin: 0 5px;             
+}
+
+.p-30{
+    padding: 30px;
+}
+.profile-card h2{
+    color: #126BB3;
+    
+}
+.profile-card .img{
+    width: 140px    ;
+}
+.profile-card img{
+    width: 100%;    
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.profile-text p span{
+    color: #126BB3  ;
+}
+.profile-text{
+    float: left;
+}
+.profile-text button {
+    background-color: #126BB3;
+    color: #FFF;
+    padding: 10px 20px;        
+    border-radius: 8px;
+    border: none;
+}
+
+
+.skills-cards {
+    width: 25%;
+    float: left;
+    padding:  10px; 
+    
+}
+
+.card-content {
+    background-color: rgba(239, 246, 255, 0.6);
+    border: 1.5px solid rgb(219, 234, 254);
+    border-radius: 20px;
+    padding: 20px; 
+}
+.skills-gallery h3 , .skills-gallery h2 , .Experience-card h2 , .img-content h4{
+    color: #126BB3;
+}
+.Experience-card{
+    background-color: rgba(239, 246, 255, 0.6);
+    border: 1.5px solid rgb(219, 234, 254);
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 4px solid #126BB3;
+}
+.Experience-img{
+    float: left;
+    margin-right: 20px;
+}
+.Experience-card img{
+    width: 80px;
+    border: 1.5px solid rgb(219, 234, 254);
+    padding: 8px;
+    border-radius: 15px;
+}
+.img-content{
+    float: left;
+    
+}
+.img-content h3, .img-content h4{
+    margin-top: 0px;
+}
+.contact-card h2, .contact-card p{
+    color: #FFF;
+}
+.contact-card button{
+    background-color: rgb(38, 83, 131, 0.8);
+    color: #FFF;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    padding: 10px 15px;        
+    border-radius: 10px;
+    margin: 0 5px;
+}
+.rights-card{
+    background-color: #0b1a30;
+    border-radius: 20px;
+}
+.rights-card p{
+    color: #fff;
+}
+.rights-card p span {
+    color: #7DA7D8; 
+}
+
+
